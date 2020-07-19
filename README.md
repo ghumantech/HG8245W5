@@ -1,5 +1,5 @@
 # HG8245W5 Fiber Optic Router (huawei)
-how can i Decrypt HG8245W5 router configuration file ? all the user's are apeared but password are in different letters.i downloaded xml file but i cannot get wifi assword.
+how can i Decrypt HG8245W5 router configuration file ? all the user's are apeared but password are in different letters.i downloaded xml file but i cannot get wifi Password.
 can any one help me that how can i get decrypt these codes?
 </WiFi>
 <WLANConfiguration NumberOfInstances="2">
